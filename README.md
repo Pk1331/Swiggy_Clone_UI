@@ -1,6 +1,13 @@
 
 # Fagito - Swiggy Clone
 
+## Fagito Website & Dashboard
+  - You can see Live Demo [Here](https://swiggy-clone-ui.vercel.app/)
+    
+  - You can add your new Restaurant [Here](https://swiggy-clone-dashboard-mu.vercel.app/)
+## Website Image
+![markuphero-mB6VafUCgeAeTpbZTeXs](https://github.com/user-attachments/assets/8b315395-f155-45bf-971c-da10eb4c228d)
+
 ## Table of Contents
 - Project Overview
 - Features
