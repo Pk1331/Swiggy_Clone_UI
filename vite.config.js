@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://swiggy-clone-backend-1.onrender.com',
+        target: 'https://swiggy-clone-backend-6pav.onrender.com/',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ''),
       },
