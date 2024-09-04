@@ -50,7 +50,8 @@ Fagito is a Swiggy clone that allows users to explore various restaurants and fo
      - For the frontend:
        
          ```
-              npm i create-vite appname  react-router-dom react-icons react-loader-spinner
+              npx create-vite appname
+              npm install react-router-dom react-icons react-loader-spinner
          ```
     - For the backend
         ```
